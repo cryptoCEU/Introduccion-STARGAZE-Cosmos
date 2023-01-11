@@ -7,7 +7,7 @@ En este repositorio podemos encontrar diferentes recursos de ejemplo para poder 
 
 ## Stargaze
 
-Stargaze es una blockchain desarrollada en el ecosisitema COSMOS, que ofrece todo lo que necesitan los proyectos de colecciones de NFTS. La cadena de bloques es asegurada a través del staking de su token nativo, $STARS y es actualizada gracias a los mecanismos de governanza. Stargaze permite crear coleccciones mediante herramientas muy sencillas, también dispone de un marketplace donde podemos comprar y vender los distintos NFTs, fijar precios y hacer ofertas. 
+Stargaze es una blockchain desarrollada en el ecosistema COSMOS, que ofrece todo lo que necesitan los proyectos de colecciones de NFTS. La cadena de bloques es asegurada a través del staking de su token nativo, $STARS y es actualizada gracias a los mecanismos de governanza. Stargaze permite crear coleccciones mediante herramientas muy sencillas, también dispone de un marketplace donde podemos comprar y vender los distintos NFTs, fijar precios y hacer ofertas. 
 
 ### Recursos Interesantes 
 
