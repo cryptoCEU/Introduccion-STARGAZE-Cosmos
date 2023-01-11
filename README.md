@@ -30,9 +30,24 @@ Stargaze es una blockchain desarrollada en el ecosistema COSMOS, que ofrece todo
 * [Discord Stargaze](https://discord.gg/stargaze)
 * Para conseguir faucet tokens $STARS, lo hacemos mediante un bot en el canal #testnet-faucet.
 
-### Testnet Stargaze
+## Stargaze
 <img title="a title" alt="Alt text" width="50" src="https://miro.medium.com/max/1400/1*PIWmEFMXvzJr2yYt7f_3CQ.png">
 
+### Testnet 
+
 * [Stargaze Testnet](https://testnet.publicawesome.dev/)
-* [Stargaze Testnet Launchpad](https://testnet.publicawesome.dev/launchpad)
-* [Stargaze Testnet Stake](https://testnet.publicawesome.dev/stake)
+* [Stargaze Testnet Launchpad](https://testnet.publicawesome.dev/launchpad) Para mintear algún NFT
+* [Stargaze Testnet Marketplace](https://testnet.publicawesome.dev/marketplace) Para comprar y vender NFTs.
+* [Stargaze Testnet Stake](https://testnet.publicawesome.dev/stake) Para stakear los STARS
+
+### Mainnet 
+
+* [Stargaze Mainnet](https://testnet.publicawesome.dev/)
+* [Stargaze Mainnet Launchpad](https://www.stargaze.zone/launchpad)
+* [Stargaze Mainnet Stake](https://www.stargaze.zone/stake)
+* [Stargaze Vote](https://www.stargaze.zone/vote)
+* [Stargaze Governance Proposals](https://testnet.publicawesome.dev/stake)
+* [Stargaze Names](https://www.stargaze.zone/names)
+
+
+
