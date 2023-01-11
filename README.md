@@ -1,4 +1,4 @@
-<img title="a title" alt="Alt text" width="480" src="https://miro.medium.com/max/1400/1*PIWmEFMXvzJr2yYt7f_3CQ.png">
+<img title="a title" alt="Alt text" width="480" src="https://4266274253-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FSInMUrk5zXO1wiVbvasJ%2Fuploads%2FcZIK4ksJSZhdW0cAzM2y%2Fstargaze_logo_800.svg?alt=media&token=60d1324d-f844-4aa6-a86e-daa212634380">
 
 INTRODUCCIÓN STARGAZE - COSMOS
 ======
