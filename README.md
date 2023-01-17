@@ -42,7 +42,7 @@ Stargaze es una blockchain desarrollada en el ecosistema COSMOS, que ofrece todo
 
 ### Mainnet 
 
-* [Stargaze Mainnet](https://testnet.publicawesome.dev/)
+* [Stargaze Mainnet](https://www.stargaze.zone/)
 * [Stargaze Mainnet Launchpad](https://www.stargaze.zone/launchpad)
 * [Stargaze Mainnet Stake](https://www.stargaze.zone/stake)
 * [Stargaze Vote](https://www.stargaze.zone/vote)
